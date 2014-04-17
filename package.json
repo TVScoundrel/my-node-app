@@ -1,0 +1,22 @@
+{
+  "name": "my-node-app",
+  "version": "0.0.0",
+  "description": "Learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TVScoundrel/my-node-app.git"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "Tom Van Schoor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TVScoundrel/my-node-app/issues"
+  },
+  "homepage": "https://github.com/TVScoundrel/my-node-app"
+}
